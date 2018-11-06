@@ -15,9 +15,7 @@ Las placas base suelen llevar un altavoz que emite pitidos para indicar posibles
 Los altavoces suelen ir unidos a los **AURICULARES** para poder escuchar los sonidos que envía la tarjeta de sonido.
 
 
-![alt Dolby Digital] [https://www.google.es/search?hl=es&authuser=0&biw=1440&bih=740&ei=jADgW_SuHuKKgAaO4bKABw&q=altavoces+dolby+digital&oq=altavoces+dolby+digital&gs_l=psy-ab.3..0i22i30k1l2.33420.39915.0.40779.14.13.0.1.1.0.116.1163.10j3.13.0....0...1c.1.64.psy-ab..0.14.1159...0j0i67k1.0.0qPH__Uiepo.jpg]
 
-[Altavoces]
-http://altavoces.com
+[Altavoces]https://www.pccomponentes.com/altavoces-5-1
 
 
