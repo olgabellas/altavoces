@@ -47,6 +47,18 @@ Con los altavoces, lo que hacemos es amplificar el sonido. Se utilizan para escu
 
 Son los periféricos de salida por excelencia porque no introducen ningún tipo de información en el ordenador, sino que sacan la información acústica que se produce en el ordenador, para escuchar música, una película o para trabajar en la edición de audio.
 
+Un altavoz  es un transductor electroacústico utilizado para la reproducción de sonido. Uno o varios altavoces pueden formar una pantalla acústica.
+
+La transducción sigue un doble procedimiento: eléctrico-mecánico-acústico. En la primera etapa convierte las ondas eléctricas en energía mecánica, y en la segunda convierte la energía mecánica en ondas de frecuencia acústica. Es por lo mismo tanto la puerta por donde sale el sonido al exterior desde los aparatos que posibilitaron su amplificación, su transmisión por medios telefónicos o radioeléctricos, o su tratamiento.
+
+El sonido se transmite mediante ondas sonoras, en este caso, a través del aire. El oído capta estas ondas y las transforma en impulsos nerviosos que llegan al cerebro y se transforman en señales que se identifican con cosas como música, sonidos...
+
+Los altavoces de alta calidad son los que tienen un margen de variación de 6 dB para el margen audible entre los 20 y los 20 000 Hz.
+
+
+
+
+
 Para que un equipo sea considerado de calidad, debe cubrir al menos el margen de las audiofrecuencias (20-20.000 Hz), es decir la frecuencia audible de los sonidos para los humanos.
 
 Las placas base suelen llevar un altavoz que emite pitidos para indicar posibles errores o procesos, o para indicar acciones para las personas con discapacidades visuales, como la activacion de las teclas Bloq Num o Bloq Mayus.
