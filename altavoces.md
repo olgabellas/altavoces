@@ -53,13 +53,12 @@ La transducción sigue un doble procedimiento: eléctrico-mecánico-acústico. E
 
 El sonido se transmite mediante ondas sonoras, en este caso, a través del aire. El oído capta estas ondas y las transforma en impulsos nerviosos que llegan al cerebro y se transforman en señales que se identifican con cosas como música, sonidos...
 
-Los altavoces de alta calidad son los que tienen un margen de variación de 6 dB para el margen audible entre los 20 y los 20 000 Hz.
 
 
 
 
 
-Para que un equipo sea considerado de calidad, debe cubrir al menos el margen de las audiofrecuencias (20-20.000 Hz), es decir la frecuencia audible de los sonidos para los humanos.
+Para que un equipo sea considerado de calidad, debera tener un margen de variación de 6 dB para cubrir al menos el margen de las audiofrecuencias (20-20.000 Hz), es decir la frecuencia audible de los sonidos para los humanos.
 
 Las placas base suelen llevar un altavoz que emite pitidos para indicar posibles errores o procesos, o para indicar acciones para las personas con discapacidades visuales, como la activacion de las teclas Bloq Num o Bloq Mayus.
 
