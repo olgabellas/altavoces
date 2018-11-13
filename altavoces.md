@@ -21,7 +21,7 @@ Altavoces
 
 
 Son dispositivos por los cuales se emiten sonidos procedentes de la tarjeta de sonido. 
-Actualmente existen bastante ejemplares que cubren la oferta mas comun que existe en el mercado. Se trata de modelos que van desde lo mas sencillo (una paraja de altavoces stereo),
+Actualmente existen bastantes ejemplares que cubren la oferta mas comun que existe en el mercado. Se trata de modelos que van desde lo mas sencillo (una pareja de altavoces stereo),
 hasta el más complicado sistema Dolby Digital, con 6 altavoces, pasando por productos intermedios de 4 ó 5 altavoces.
 
 
